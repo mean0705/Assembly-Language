@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="drawJuliaSet.c" open="1" top="1" tabpos="5">
+		<Cursor position="738" topLine="12" />
+	</File>
+	<File name="id.s" open="1" top="0" tabpos="2">
+		<Cursor position="2313" topLine="82" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="1131" topLine="43" />
+	</File>
+	<File name="myjulia.s" open="1" top="0" tabpos="4">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="name.s" open="1" top="0" tabpos="3">
+		<Cursor position="365" topLine="6" />
+	</File>
+</CodeBlocks_layout_file>

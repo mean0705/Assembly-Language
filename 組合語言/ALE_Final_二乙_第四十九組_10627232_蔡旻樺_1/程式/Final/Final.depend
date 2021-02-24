@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1545320740 source:/home/pi/Desktop/code/midterm/ID.s
+
+1545667578 source:/home/pi/Desktop/code/midterm/NAME.s
+
+1545667068 source:/home/pi/Desktop/code/Final/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+
+1545640707 source:/home/pi/Desktop/code/Final/drawJuliaSet.s
+

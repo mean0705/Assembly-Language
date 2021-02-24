@@ -1,0 +1,416 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vadd32
+Z0 !s110 1560051563
+!i10b 1
+!s100 QV<0ZKKd^9l`>f?T>;17f2
+IoFd`oISEf@N;UU0;E_;jJ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/kuanyu/Desktop/mips_single
+w1323725068
+8C:/Users/kuanyu/Desktop/mips_single/add32.v
+FC:/Users/kuanyu/Desktop/mips_single/add32.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1560051562.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/add32.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/add32.v|
+!s101 -O0
+!i113 1
+Z5 o-work mips -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu
+R0
+!i10b 1
+!s100 m<O^U12g0S]jK`NGkESc[3
+IGWWdUF3DGBMBd915ALfY01
+R1
+R2
+w1323786476
+8C:/Users/kuanyu/Desktop/mips_single/alu.v
+FC:/Users/kuanyu/Desktop/mips_single/alu.v
+Z6 L0 14
+R3
+r1
+!s85 0
+31
+Z7 !s108 1560051563.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/alu.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/alu.v|
+!s101 -O0
+!i113 1
+R5
+vALU_1bit
+Z8 !s110 1560051564
+!i10b 1
+!s100 e[B^RZVULkJFC>S?dBT]z1
+IYoYSUzfiG_kPMAIN<2f612
+R1
+R2
+w1559997759
+8C:/Users/kuanyu/Desktop/mips_single/ALU_1bit.v
+FC:/Users/kuanyu/Desktop/mips_single/ALU_1bit.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1560051564.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/ALU_1bit.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/ALU_1bit.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_1bit
+vaLU_32bits
+!s110 1559997008
+!i10b 1
+!s100 6l]_>W^<LdPdTi_JWdd[40
+I20Wb60Y3QCT2QgeiUG<IO0
+R1
+R2
+w1559997002
+Z10 8C:/Users/kuanyu/Desktop/mips_single/ALU_32bits.v
+Z11 FC:/Users/kuanyu/Desktop/mips_single/ALU_32bits.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1559997008.000000
+Z12 !s107 C:/Users/kuanyu/Desktop/mips_single/ALU_32bits.v|
+Z13 !s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/ALU_32bits.v|
+!s101 -O0
+!i113 1
+R5
+na@l@u_32bits
+vALU_32bits
+R8
+!i10b 1
+!s100 1X827OL[Vfm8`gTUTFl;40
+I0M6YSVDUfR5o82CWe]=oM1
+R1
+R2
+w1560050755
+R10
+R11
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+R12
+R13
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_32bits
+valu_ctl
+R0
+!i10b 1
+!s100 NhJND=Vh0Z6NZ9zAX<1;T2
+I?O_MKfFll?_3W48AV8>:;0
+R1
+R2
+w1560047830
+8C:/Users/kuanyu/Desktop/mips_single/alu_ctl.v
+FC:/Users/kuanyu/Desktop/mips_single/alu_ctl.v
+L0 11
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/alu_ctl.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/alu_ctl.v|
+!s101 -O0
+!i113 1
+R5
+vALU_msb
+R8
+!i10b 1
+!s100 3`@Y9kz]O^56M[_4idol^3
+I:Yf5R4YCIJkT4di9<RMk>0
+R1
+R2
+w1559997627
+8C:/Users/kuanyu/Desktop/mips_single/ALU_msb.v
+FC:/Users/kuanyu/Desktop/mips_single/ALU_msb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/ALU_msb.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/ALU_msb.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_msb
+vcontrol_single
+R0
+!i10b 1
+!s100 H2KhA9<m6[B7:]c@zd]j;3
+IM[E[OKA:C>Ia2]Ez_[>@<3
+R1
+R2
+Z14 w1323786478
+8C:/Users/kuanyu/Desktop/mips_single/control_single.v
+FC:/Users/kuanyu/Desktop/mips_single/control_single.v
+L0 17
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/control_single.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/control_single.v|
+!s101 -O0
+!i113 1
+R5
+vFA
+!s110 1560051566
+!i10b 1
+!s100 bz`RUV^65;U1h;R`3n58j0
+I6PkA:kJNO^_Zb_UnkU4hE3
+R1
+R2
+w1559993251
+8C:/Users/kuanyu/Desktop/mips_single/FA.v
+FC:/Users/kuanyu/Desktop/mips_single/FA.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1560051566.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/FA.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/FA.v|
+!s101 -O0
+!i113 1
+R5
+n@f@a
+vmemory
+R0
+!i10b 1
+!s100 DY1hn5B6PF?X7CS1Hkf8@2
+I9SORb?eSfG:4RH4f9ZblY3
+R1
+R2
+w1559985136
+8C:/Users/kuanyu/Desktop/mips_single/memory.v
+FC:/Users/kuanyu/Desktop/mips_single/memory.v
+R6
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/memory.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/memory.v|
+!s101 -O0
+!i113 1
+R5
+vmips_single
+R0
+!i10b 1
+!s100 bb@z4_XBHBhWnH2EBC[iC0
+IlQ?2@kTmeO_QKoCWlV?1A0
+R1
+R2
+w1560051553
+8C:/Users/kuanyu/Desktop/mips_single/mips_single.v
+FC:/Users/kuanyu/Desktop/mips_single/mips_single.v
+L0 5
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/mips_single.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/mips_single.v|
+!s101 -O0
+!i113 1
+R5
+vmux2
+R0
+!i10b 1
+!s100 k7RnaEGa7k9I5X;o_c69A2
+INLdN9RiWI3T2WM63aNz;n3
+R1
+R2
+w1323725038
+8C:/Users/kuanyu/Desktop/mips_single/mux2.v
+FC:/Users/kuanyu/Desktop/mips_single/mux2.v
+L0 5
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/mux2.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/mux2.v|
+!s101 -O0
+!i113 1
+R5
+vmuxspecial
+!s110 1560051573
+!i10b 1
+!s100 a_M`k=8@9ifFQO`kfd]fF2
+I`]]Foj2>K<P7_XV]dFjLF2
+R1
+R2
+w1560051492
+Z15 8C:/Users/kuanyu/Desktop/mips_single/muxspecial.v
+Z16 FC:/Users/kuanyu/Desktop/mips_single/muxspecial.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1560051573.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/muxspecial.v|
+Z17 !s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/muxspecial.v|
+!s101 -O0
+!i113 1
+R5
+vmuxspeical
+!s110 1560051440
+!i10b 1
+!s100 0WK?o=RoL8JckRBnGbMMH2
+IW4DYJ_BEdjVM:IDg_^l;F0
+R1
+R2
+w1560051411
+R15
+R16
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1560051440.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/muxspecial.v|
+R17
+!s101 -O0
+!i113 1
+R5
+vreg32
+R0
+!i10b 1
+!s100 X7D[Y7GI@:a]8[LLGKMAX0
+I]>Vkl1>MV4mJ^]PH1h6H`0
+R1
+R2
+R14
+8C:\Users\kuanyu\Desktop\mips_single\reg32.v
+FC:\Users\kuanyu\Desktop\mips_single\reg32.v
+L0 13
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\kuanyu\Desktop\mips_single\reg32.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:\Users\kuanyu\Desktop\mips_single\reg32.v|
+!s101 -O0
+!i113 1
+R5
+vreg_file
+R0
+!i10b 1
+!s100 IK2[C4dJ=]TeN7i2VzI?G3
+IJaa^>7egHYiil:6ZLJg6z3
+R1
+R2
+R14
+8C:/Users/kuanyu/Desktop/mips_single/reg_file.v
+FC:/Users/kuanyu/Desktop/mips_single/reg_file.v
+L0 16
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/reg_file.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/reg_file.v|
+!s101 -O0
+!i113 1
+R5
+vShifter
+!s110 1560051570
+!i10b 1
+!s100 e;3nPIPkmdM=YTESK149D1
+I63o75J2l01<=eNNh2fMA30
+R1
+R2
+w1560050706
+8C:/Users/kuanyu/Desktop/mips_single/Shifter.v
+FC:/Users/kuanyu/Desktop/mips_single/Shifter.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1560051570.000000
+!s107 C:/Users/kuanyu/Desktop/mips_single/Shifter.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/Shifter.v|
+!s101 -O0
+!i113 1
+R5
+n@shifter
+vsign_extend
+R0
+!i10b 1
+!s100 bnM29P^jL69V9e7A2::Tk2
+I>QPCd6>>0^oUc_z72A?DN0
+R1
+R2
+R14
+8C:/Users/kuanyu/Desktop/mips_single/sign extend.v
+FC:/Users/kuanyu/Desktop/mips_single/sign extend.v
+L0 10
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kuanyu/Desktop/mips_single/sign extend.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:/Users/kuanyu/Desktop/mips_single/sign extend.v|
+!s101 -O0
+!i113 1
+R5
+vtb_SingleCycle
+!s110 1560051562
+!i10b 1
+!s100 X65e8a@^CYzB[l33fHg8S2
+IB9MZUCQJ>6cJ3bjgB@TbW2
+R1
+R2
+w1559993440
+8C:\Users\kuanyu\Desktop\mips_single\tb_SingleCycle.v
+FC:\Users\kuanyu\Desktop\mips_single\tb_SingleCycle.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\kuanyu\Desktop\mips_single\tb_SingleCycle.v|
+!s90 -reportprogress|300|-work|mips|-stats=none|C:\Users\kuanyu\Desktop\mips_single\tb_SingleCycle.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@single@cycle

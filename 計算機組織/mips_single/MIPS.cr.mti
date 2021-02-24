@@ -1,0 +1,120 @@
+C:/Users/kuanyu/Desktop/mips_single/ALU_1bit.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/ALU_1bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_1bit
+
+Top level modules:
+	ALU_1bit
+
+} {} {}} {C:/Users/kuanyu/Desktop/mips_single/sign extend.v} {1 {vlog -work mips -stats=none {C:/Users/kuanyu/Desktop/mips_single/sign extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/control_single.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/control_single.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/muxspecial.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/muxspecial.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module muxspecial
+
+Top level modules:
+	muxspecial
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/alu_ctl.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/alu_ctl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/mux2.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/mux2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/Shifter.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/Shifter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/reg_file.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/reg_file.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/FA.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/FA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/memory.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/mips_single.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/mips_single.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips_single
+
+Top level modules:
+	mips_single
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/alu.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/ALU_msb.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/ALU_msb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_msb
+
+Top level modules:
+	ALU_msb
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/reg32.v {1 {vlog -work mips -stats=none {C:\Users\kuanyu\Desktop\mips_single\reg32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/add32.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/add32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/tb_SingleCycle.v {1 {vlog -work mips -stats=none {C:\Users\kuanyu\Desktop\mips_single\tb_SingleCycle.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} C:/Users/kuanyu/Desktop/mips_single/ALU_32bits.v {1 {vlog -work mips -stats=none C:/Users/kuanyu/Desktop/mips_single/ALU_32bits.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_32bits
+
+Top level modules:
+	ALU_32bits
+
+} {} {}}
